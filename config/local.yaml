@@ -1,5 +1,5 @@
 env: "local" #"local", "prod"
 httpserver:
-  address: "0.0.0.0:10000"
+  address: "localhost:10000"
   timeout: 60s
   idle_timeout: 60s
